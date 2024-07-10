@@ -1,0 +1,32 @@
+# Applying Selection Sort on Gamma distribution Data using Linked list implementation
+
+## Development Environment
+- **IDE**: IntelliJ IDEA
+- **Java SDK**:
+  - **Version**: 21
+
+## IntelliJ Project Configuration
+- **Project Structure**:
+  - **Language**: Java
+  - **Language Version**: SDK Default
+
+
+- **Maven Dependencies**:
+  ```xml
+
+     <dependencies>
+         <dependency>
+             <groupId>org.apache.commons</groupId>
+             <artifactId>commons-math3</artifactId>
+             <version>3.6.1</version>
+         </dependency>
+
+         <dependency>
+             <groupId>org.jfree</groupId>
+             <artifactId>jfreechart</artifactId>
+             <version>1.5.3</version>
+         </dependency>
+
+
+
+     </dependencies>
